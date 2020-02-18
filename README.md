@@ -5,7 +5,7 @@ install 7zip from web
 ```
 
 ```
-task every day exec c:\log-7z\batch.cmd
+task every day exec c:\log-7z\7z-batch.bat
 ```
 
 ```
